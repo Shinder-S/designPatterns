@@ -1,4 +1,4 @@
-package dessignPattern;
+package singletonPattern;
 
 public class ItemFactory {
 
